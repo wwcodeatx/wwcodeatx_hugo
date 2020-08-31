@@ -1,0 +1,70 @@
+baseURL = "http://WWCodeATX.github.io"
+languageCode = "en-us"
+title = "WWCode ATX"
+
+theme ="hugo-theme-basic"
+
+# Enter a copyright notice to display in the site footer.
+# To display a copyright symbol, type `&copy;`.
+copyright = "&copy;Women Who Code ATX 2020"
+
+
+#[taxonomies]
+#  category = "categories"
+#  series = "series"
+#  tag = "tags"
+
+[frontmatter]
+# update sitemap.xml's lastmod datetime by file change time, instead of git.
+lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[params]
+titleEmoji = ":cactus:"
+twitter = "WWCodeATX"
+
+[Permalinks]
+  post = "post/:slug"
+
+[[params.menu]]
+  name = "blog"
+  url = "post/"
+
+[[params.menu]]
+  name = "ATX Diversity Hackathon"
+  url = "hackathon/"
+
+#[[params.menu]]
+#  name = "post series"
+#  url = "series/"
+
+[[params.menu]]
+  name = "about"
+  url = "about/"
+
+[deployment]
+# By default, files are uploaded in an arbitrary order.
+# Files that match the regular expressions in the "Order" list
+# will be uploaded first, in the listed order.
+order = [".jpg$", ".gif$"]
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "mydeployment"
+
+# [[deployment.matchers]] configure behavior for files that match the Pattern.
+# Samples:
+
+[[deployment.matchers]]
+#  Cache static assets for 20 years.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=630720000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=630720000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
