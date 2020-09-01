@@ -47,7 +47,7 @@ Presenter: Giselle Valenzuela Aldridge [[twitter](https://twitter.com/giselleval
 Presenter: Eddy Reyes [[twitter](https://twitter.com/0x000edd1e)]
 
 ### 1:00 - 2:00 PM	
-#### Ask a Dev Tips and tools for a faster learning experience What to expect once in the field of software engineering.	
+#### Ask a Dev Tips and tools for a faster learning experience: What to expect once in the field of software engineering
 Presenter: Luis Suarez [[twitter](https://twitter.com/suarezluis)]
 
 Did you just started programming? Bring all your questions about the industry/workforce, processes, the daily life of a developer, software engineering, working for a startup, etc!
