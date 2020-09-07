@@ -25,9 +25,9 @@ twitter = "WWCodeATX"
 [Permalinks]
   post = "post/:slug"
 
-[[params.menu]]
-  name = "blog"
-  url = "post/"
+# [[params.menu]]
+#   name = "blog"
+#   url = "post/"
 
 [[params.menu]]
   name = "ATX Diversity Hackathon"
