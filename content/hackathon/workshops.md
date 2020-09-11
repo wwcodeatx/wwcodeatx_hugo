@@ -14,10 +14,18 @@ Visit Briona's [press page](https://www.brionajenkins.com/press) to listen to th
 ### 12:00 - 1:00 PM: How to Not Die Broke: Investing Strategies You Need to Know
 Presenter: Kara Perez [[twitter](https://twitter.com/bravelygo) [instagram](https://www.instagram.com/webravelygo)]
 
+### 1:00 - 2:00 PM: Communicating with Diagrams: A designer's tips for creating engineering diagrams that clearly & efficiently convey their intended message
+Presenter: Sara Wells
+
+Bring a diagram you'd like to make more clear, or just any diagram you're familiar with. Or if you prefer, just join and listen!
+
 ### 2:00 - 3:00 PM: Socket Programming in Python
 Presenter: Rachel Bentley [[twitter](https://twitter.com/rachiebytes)]
 
 Please install Python 3 before the workshop. Here are [the instructions](https://wiki.python.org/moin/BeginnersGuide/Download).
+
+### 3:00 - 4:00 PM: Public Interest Technology and Open Data at the City of Austin
+Presenter: Mateo Clarke [[twitter](https://twitter.com/mateoclarke)]
 
 ### 4:00 - 5:00 PM: Why You Should Care About Cyber
 Presenter: Sara Inés Calderón [[twitter](https://twitter.com/sarachicad)] & Amanda Lee Keammerer [[twitter](https://twitter.com/amandaktx)]
