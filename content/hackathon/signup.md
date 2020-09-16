@@ -4,7 +4,7 @@ date: 2020-08-30T13:00:00-05:00
 draft: false
 ---
 
-Join Women Who Code Austin (ATX) for our 6th annual Diversity Hackathon, sponsored by Google Fiber, Athena Health, Bestow and the Zebra. This is a virtual hackathon, with online workshops.
+Join Women Who Code Austin (ATX) for our 6th annual Diversity Hackathon, sponsored by Google Fiber, AthenaHealth, Bestow and the Zebra. This is a virtual hackathon, with online workshops.
 
 **When:** Fri, Sep 18, 2020, 9:00 AM – Sun, Sep 20, 2020, 5:00 PM CDT
 
@@ -30,17 +30,17 @@ Stay connected. Stay in touch. Connect your home. Discover what you can do with 
 
 ![Google Fiber](/image/fiber.svg)
 
-#### [Athena Health](https://www.athenahealth.com) 
+#### [Athenahealth](https://www.athenahealth.com) 
 Healthcare as it could be -
 
-Athena health partners with healthcare organizations across the care continuum to drive clinical and financial results. Our expert teams build modern technology on an open, connected ecosystem, yielding insights that make a difference for our customers and their patients.
+Athenahealth partners with healthcare organizations across the care continuum to drive clinical and financial results. Our expert teams build modern technology on an open, connected ecosystem, yielding insights that make a difference for our customers and their patients.
 
-![Athena Health](/image/athena-health-logo.png )
+![AthenaHealth](/image/athenahealth_logo_purple.png)
 
 #### [Bestow](https://bestow.com/) 
 Bestow is Dallas-based startup using big data and a simple, online interface to revolutionize the archaic life insurance industry. We're innovating to make financial protection more equitable and accessible.
 
-![Bestow(/image/bestow-logo.png)
+![Bestow](/image/bestow-logo.png)
 
 #### [The Zebra](https://www.thezebra.com/) 
 Born in 2012, we started The Zebra with a single goal: to simplify insurance. And in doing so, we’ve become the nation’s leading insurance comparison site.

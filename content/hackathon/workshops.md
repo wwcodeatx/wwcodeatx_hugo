@@ -5,11 +5,6 @@ draft: false
 ---
 
 # FRIDAY, September 18				
-### 11:00 - 12:00 PM: Diversity, Equity, and Inclusion can't be just terms that we use at work
-
-Presenter: Briona Jenkins [[twitter](https://twitter.com/brionajenkins) [instagram](https://www.instagram.com/brionajenkins)]
-
-Visit Briona's [press page](https://www.brionajenkins.com/press) to listen to the panels and podcast, and the blog posts.
 
 ### 12:00 - 1:00 PM: How to Not Die Broke: Investing Strategies You Need to Know
 Presenter: Kara Perez [[twitter](https://twitter.com/bravelygo) [instagram](https://www.instagram.com/webravelygo)]
@@ -42,6 +37,12 @@ Please install Python 3 before the workshop. Here are [the instructions](https:/
 
 ### 10:00 - 11:00 AM: DIY Pay Equity: Make the Money that White Men Make in  Tech 	
 Presenter: Giselle Valenzuela Aldridge [[twitter](https://twitter.com/gisellevalenz)] 	
+
+### 11:00 - 12:00 PM: Diversity, Equity, and Inclusion can't be just terms that we use at work
+
+Presenter: Briona Jenkins [[twitter](https://twitter.com/brionajenkins) [instagram](https://www.instagram.com/brionajenkins)]
+
+Visit Briona's [press page](https://www.brionajenkins.com/press) to listen to the panels and podcast, and the blog posts.
 
 ### 12:00 -1:00 PM: How To Prepare For a Coding Interview
 Presenter: Eddy Reyes [[twitter](https://twitter.com/0x000edd1e)]
